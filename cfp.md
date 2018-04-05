@@ -61,13 +61,13 @@ For inclusion on the website and for evaluation, please also submit:
  * a picture of the speaker (150 pixels wide, up to 250 pixels high)
  * for previously published work: the original paper.
 
-To submit a paper please use the [Precision Conference System](https://precisionconference.com/~vgtc/). After logging in go to "new submissions" and select "Submit to Abstracts/Talks" for VDS 2017.
+To submit a paper please use the [Precision Conference System](https://precisionconference.com/~vgtc/). After logging in go to "new submissions" and select "Submit to Abstracts/Talks" for VDS 2018.
 
 ### Important Dates
 
-~~**July 14, 2017, 5:00pm PDT**: Paper and Abstract Submission~~
-**July 17, 2017, 5:00pm PDT**: Paper and Abstract Submission (Extended)
+~~**July 14, 2018, 5:00pm PDT**: Paper and Abstract Submission~~
+**July 17, 2018, 5:00pm PDT**: Paper and Abstract Submission (Extended)
 
-August 22, 2017: Author Notification
+August 22, 2018: Author Notification
 
-August 31, 2017: Camera-ready Copy for Accepted Submissions
+August 31, 2018: Camera-ready Copy for Accepted Submissions
