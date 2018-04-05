@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Vision
+title: VDS 2018
 ---
 
 
