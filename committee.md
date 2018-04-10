@@ -30,7 +30,7 @@ Gordon Kindlmann is an associate professor in the department of Computer Science
 
 **[Thomas Schultz](http://cg.cs.uni-bonn.de/en/people/prof-dr-thomas-schultz/)** 
     
-Thomas Schultz is a university professor for Life Science Informatics and Visualization at the B-IT and the Department of Computer Science. His main research interests are related to the processing, mathematical modeling, analysis, and visualization of biomedical images, and he is heading the [Visualization and Medical Image Analysis Group](http://cg.cs.uni-bonn.de/en/visualization-and-medical-image-analysis-group-prof-thomas-schultz/).
+Thomas Schultz is a professor for Life Science Informatics and Visualization at the B-IT and the Department of Computer Science. His main research interests are related to the processing, mathematical modeling, analysis, and visualization of biomedical images, and he is heading the [Visualization and Medical Image Analysis Group](http://cg.cs.uni-bonn.de/en/visualization-and-medical-image-analysis-group-prof-thomas-schultz/).
 
 
 ### Web Chair
@@ -44,7 +44,7 @@ Liang is a Sr. Researcher of Data Analytics at Visa Research. His research inter
 
 **[Daniel Keim](https://www.vis.uni-konstanz.de/mitglieder/keim/)** 
 
-Daniel Keim is full professor and head of the Information Visualization and Data Analysis Research Group at the University of Konstanz, Germany. He has been actively involved in information visualization and data analysis research for about 20 years and developed a number of novel visual analysis techniques for very large data sets with applications to a wide range of application areas including financial analysis, network analysis, geo-spatial analysis, as well as text and multimedia analysis. 
+Daniel Keim is a full professor and head of the Information Visualization and Data Analysis Research Group at the University of Konstanz, Germany. He has been actively involved in information visualization and data analysis research for about 20 years and developed a number of novel visual analysis techniques for very large data sets with applications to a wide range of application areas including financial analysis, network analysis, geo-spatial analysis, as well as text and multimedia analysis. 
 
 
 **[Hanspeter Pfister](http://www.seas.harvard.edu/directory/pfister)** 
