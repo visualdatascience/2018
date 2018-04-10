@@ -44,9 +44,16 @@ Liang is a Sr. Researcher of Data Analytics at Visa Research. His research inter
 
 **[Daniel Keim](https://www.vis.uni-konstanz.de/mitglieder/keim/)** 
 
+Daniel Keim is full professor and head of the Information Visualization and Data Analysis Research Group at the University of Konstanz, Germany. He has been actively involved in information visualization and data analysis research for about 20 years and developed a number of novel visual analysis techniques for very large data sets with applications to a wide range of application areas including financial analysis, network analysis, geo-spatial analysis, as well as text and multimedia analysis. 
+
+
 **[Hanspeter Pfister](http://www.seas.harvard.edu/directory/pfister)** 
 
+Hanspeter Pfister is the An Wang Professor of Computer Science at the Harvard John A. Paulson School of Engineering and Applied Sciences, director of the Institute for Applied Computational Science, and an affiliate faculty member of the Center for Brain Science. His research in visual computing lies at the intersection of visualization, computer graphics, and computer vision and spans a wide range of topics, including biomedical visualization, image and video analysis, 3D fabrication, and visual analytics in data science. 
+
 **[Marc Streit](http://marc-streit.com/)**
+
+Marc is a tenured Full Professor at the [Institute of Computer Graphics](http://www.cg.jku.at/) at [Johannes Kepler University Linz](http://www.jku.at/) where he leads the Visual Data Science group. His scientific areas of interest include visualization, visual analytics, and biological data visualization, where he is particularly interested in the integrated analysis of large heterogeneous data. 
 
 **[Alexander Lex](http://alexander-lex.net/)** 
 
