@@ -30,7 +30,7 @@ Gordon Kindlmann is an associate professor in the department of Computer Science
 
 **[Thomas Schultz](http://cg.cs.uni-bonn.de/en/people/prof-dr-thomas-schultz/)** 
     
-Thomas Schultz is a professor for Life Science Informatics and Visualization at the B-IT and the Department of Computer Science. His main research interests are related to the processing, mathematical modeling, analysis, and visualization of biomedical images, and he is heading the [Visualization and Medical Image Analysis Group](http://cg.cs.uni-bonn.de/en/visualization-and-medical-image-analysis-group-prof-thomas-schultz/).
+Thomas Schultz is a professor for Life Science Informatics and Visualization at the B-IT and the Department of Computer Science, University of Bonn. His main research interests are related to the processing, mathematical modeling, analysis, and visualization of biomedical images, and he is heading the [Visualization and Medical Image Analysis Group](http://cg.cs.uni-bonn.de/en/visualization-and-medical-image-analysis-group-prof-thomas-schultz/).
 
 
 ### Web Chair
