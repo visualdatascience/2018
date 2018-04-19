@@ -12,7 +12,7 @@ permalink: /committee/
 
 **[Shixia Liu](http://shixialiu.com/)**
     
-Shixia is an associate professor in the School of Software, Tsinghua University. She received a B.S. and M.S. in Computational Mathematics from Harbin Institute of Technology, a Ph.D. in Computer Aided Design and Computer Graphics from Tsinghua University. Before she joined Tsinghua, she worked as a lead researcher at Microsoft Research Asia and a research staff member and research manager at IBM China Research Lab.
+Shixia Liu is an associate professor at Tsinghua University. Her research interests include visual text analytics, visual model analytics, visual behavior analytics, and text mining. Shixia is an associate editor of IEEE Transactions on Visualization and Computer Graphics and was the papers co-chair of IEEE VAST 2016 and 2017.
 
 
 ### Paper Chairs
