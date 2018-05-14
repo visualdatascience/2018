@@ -5,10 +5,10 @@ description: "Visualization in Data Science (VDS at IEEE VIS 2018)"
 baseurl: "/2018"
 url: "http://www.visualdatascience.org/"
 conferenceshort: "VDS 2018"
-conferencedate: "Monday, October, 2018"
+conferencedate: "Sunday, October 21, 2018"
 
-deadline_submission: "July 17, 2018 5:00pm PDT (Extended)"
-deadline_notification: "August 22, 2018"
+deadline_submission: "July 16, 2018 5:00pm PDT"
+deadline_notification: "August 24, 2018"
 
 # Build settings
 markdown: kramdown
