@@ -56,7 +56,7 @@ To submit a paper please use the [Precision Conference System](https://new.preci
 
 ### Important Dates
 
-**July 16, 2018, 5:00pm PDT**: Paper and Abstract Submission
+**July 13, 2018, 5:00pm PDT**: Paper and Abstract Submission
 
 August 24, 2018: Author Notification
 
