@@ -61,4 +61,23 @@ Alex is an assistant professor of computer science at the Scientific Computing a
 
 ### Program Committee 
 
-- TBD
+- Joachim Giesen (Friedrich-Schiller-Universität Jena)
+- Hadley Wickham (RStudio)
+- Kristian Kersting (Technical University of Dortmund)
+- Andrienko, Natalia (Fraunhofer IAIS & City University London) 
+- Banovic, Nikola (Carnegie Mellon University)
+- Berger, Matthew (University of Arizona) 
+- Du, Fan (Adobe Research)
+- Liu, Zhicheng	(Adobe Research)
+- Hohman, Fred (Georgia Tech)	
+- Lex, Alexander (University of Utah) 
+- Wang, Bei	(University of Utah) 	
+- Lin, Yu-Ru (University of Pittsburgh)	
+- Parra, Denis (PUC Chile)
+- Saket, Bahador (Georgia Tech)	2
+- Schreck, Tobias (Graz University of Technology)	
+- Sedlmair, Michael	(Jacobs University)
+- Steed, Chad (Oak Ridge National Laboratory)	
+- Strobelt, Hendrik	(IBM Research)
+- Yanhong Wu (VISA Research)
+- Liang Gou (VISA Research)
