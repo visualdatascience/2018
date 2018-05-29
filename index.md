@@ -22,5 +22,3 @@ Registration for VDS is included with registration for IEEE VIS and is handled t
 - [Torsten Möller](https://cs.univie.ac.at/Torsten.Möller), Universität Wien
 - [Shixia Liu](http://shixialiu.com/), Tsinghua University
 
-
-
