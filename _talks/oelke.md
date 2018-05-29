@@ -1,7 +1,7 @@
 ---
 key: oelke
 speaker: Daniela Oelke
-website: TBD
+website: 
 affiliation: Siemens
 title: Explainable Artificial Intelligence in an Industrial Setting 
 time: TBD
