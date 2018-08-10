@@ -79,5 +79,6 @@ Alex is an assistant professor of computer science at the Scientific Computing a
 - Sedlmair, Michael	(Jacobs University)
 - Steed, Chad (Oak Ridge National Laboratory)	
 - Strobelt, Hendrik	(IBM Research)
+- Kahng, Minsuk (Georgia Tech)
 - Yanhong Wu (VISA Research)
 - Liang Gou (VISA Research)
