@@ -13,6 +13,10 @@ bio: |
     
     Professor Hanrahan's current research involves rendering algorithms, high performance graphics architectures, and systems support for graphical interaction. He also has worked on raster graphics systems, computer animation and modeling and scientific visualization, in particular, volume rendering.
 
+
+
+    
+
 abstract: |
    TBD. 
 
