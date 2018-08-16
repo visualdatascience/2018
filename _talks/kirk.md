@@ -1,5 +1,5 @@
 ---
-key: phan
+key: kirk
 speaker: Kirk Goldsberry
 website: 
 affiliation: San Antonio Spurs
