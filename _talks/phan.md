@@ -9,18 +9,16 @@ picture: phan.jpg
 picture-note: Pat Hanrahan
 slides: 
 bio: |
-    Patrick M. Hanrahan is a computer graphics researcher, the Canon USA Professor of Computer Science and Electrical Engineering in the Computer Graphics Laboratory at Stanford University. 
-    
-    Professor Hanrahan's current research involves rendering algorithms, high performance graphics architectures, and systems support for graphical interaction. He also has worked on raster graphics systems, computer animation and modeling and scientific visualization, in particular, volume rendering.
+    Patrick M. Hanrahan is a computer graphics researcher, the Canon USA Professor of Computer Science and Electrical Engineering in the Computer Graphics Laboratory at Stanford University. He is also Tableau’s Chief Scientist. 
+    His current research involves rendering algorithms, high performance graphics architectures, and systems support for graphical interaction. He also has worked on raster graphics systems, computer animation and modeling and scientific visualization, in particular, volume rendering. Before joining Stanford he was a faculty member at Princeton.
+
+    Pat has also worked at Pixar where he developed volume rendering software and was the chief architect of the RenderMan Interface - a protocol that allows modeling programs to describe scenes to high quality rendering programs. Pat has received two Academy Awards for Science and Technology, the Spirit of America Creativity Award, the SIGGRAPH Computer Graphics Achievement Award, the SIGGRAPH Stephen A. Coons Award, and the IEEE Visualization Career Award. He is a member of the National Academy of Engineering and the American Academy of Arts and Sciences.
 
 
 
-    
 
 abstract: |
    TBD. 
-
-
 
 
 
