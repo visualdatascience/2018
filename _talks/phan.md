@@ -18,7 +18,9 @@ bio: |
 
 
 abstract: |
-   TBD. 
+   
+There have been great advances in machine learning lately, in particular, deep learning. The result has been even more intelligent systems, such as image recognition, AlphaGo and self-driving cars. The technologies of machine learning are similar in many ways to those used in statistical data analysis. So, a natural question is: can AI be applied to analysis? That is, can people doing analysis be replaced by automated systems? In this talk, I will explore this question.
+
 
 
 
