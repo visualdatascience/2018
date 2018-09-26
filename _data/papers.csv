@@ -1,5 +1,5 @@
 id,title,link,authors,abstract,type
-1,BEAMES: Interactive Multi-Model Steering, Selection, and Inspection for Regression Tasks,link_tbd,"Subhajit Das, Dylan Cashman, Remco Chang, Alex Endert",abs_tbd,Paper
+1,"BEAMES: Interactive Multi-Model Steering, Selection, and Inspection for Regression Tasks,link_tbd","Subhajit Das, Dylan Cashman, Remco Chang, Alex Endert",abs_tbd,Paper
 2,Homology-Preserving Dimensionality Reduction via Manifold Landmarking and Tearing,link_tbd,"Lin Yan, Yaodong Zhao, Paul Rosen, Carlos Scheidegger, Bei Wang",abs_tbd,Paper
 3,DeepCompare: Visual and Interactive Comparison of Deep Learning Model Performance,link_tbd,"Sugeerth Murugesan, Sana Malik, Fan Du, Eunyee Koh, Tuan Manh Lai",abs_tbd,Paper
 4,Visualization-Assisted Development of Deep Learning Models in Offline Handwriting Recognition,link_tbd,"Martin Schall, Dominik Sacha, Manuel Stein, Matthias Franz, Daniel Keim",abs_tbd,Paper
