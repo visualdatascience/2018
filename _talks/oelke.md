@@ -1,12 +1,12 @@
 ---
 key: oelke
-speaker: Pat Hanrahan
+speaker: Daniela Oelke
 website: 
-affiliation: Stanford University
-title: Automating Analysis?
+affiliation: Siemens
+title: Humans and AI&#58; From love-hate relationship to dream team?
 time: TBD
-picture: phan.jpg
-picture-note: Pat Hanrahan
+picture: oelke.jpg
+picture-note: Daniela Oelke
 slides: 
 bio: |
     Pat Hanrahan is a computer graphics researcher, the Canon Professor of Computer Science and Electrical Engineering in the Computer Graphics Laboratory at Stanford University. He is also Tableau’s Chief Scientist. 
