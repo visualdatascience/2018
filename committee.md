@@ -19,8 +19,7 @@ Shixia Liu is an associate professor at Tsinghua University. Her research intere
 
 **[Adam Perer](http://perer.org/)**  
     
-Adam is a Research Scientist at IBM’s T.J. Watson Research Center, as well as an Adjunct Professor at Carnegie Mellon University. His research blends data visualization and data mining techniques to create visual interactive systems to help users make sense out of big data. Lately, his research focuses on extracting insights from clinical data to support data-driven medicine.
-
+Adam Perer is an Assistant Research Professor at Carnegie Mellon University, where he is a member of the Human-Computer Interaction Institute. His research integrates data visualization and machine learning techniques to create visual interactive systems to help users make sense out of big data. Lately, his research focuses on human-centered data science and extracting insights from clinical data to support data-driven medicine. This work has been published at premier venues in visualization, human-computer interaction, and medical informatics. He was previously a Research Scientist at IBM Research. He holds a Ph.D. in Computer Science from the University of Maryland, College Park.
 
 **[Gordon Kindlmann](http://people.cs.uchicago.edu/~glk/)** 
 
