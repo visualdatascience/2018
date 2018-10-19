@@ -36,7 +36,7 @@ Thomas Schultz is a professor for Life Science Informatics and Visualization at 
 
 **[Liang Gou](https://usa.visa.com/about-visa/visa-research/liang-gou.html)**  
 
-Liang is a Sr. Researcher of Data Analytics at Visa Research. His research interests lie in the fields of visual analytics, deep learning and human-computer interaction. Prior to joining Visa Research, Liang was a Research Staff Member at IBM Almaden Research Center.
+Liang is a Principal Research Scientist at Visa Research. His research interests lie in the fields of visual analytics, deep learning and human-computer interaction. Prior to joining Visa Research, Liang was a Research Staff Member at IBM Almaden Research Center.
 
 
 ### Steering Committee
